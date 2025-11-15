@@ -118,3 +118,32 @@ h1::after {
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   }
 }
+
+
+.attribution {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background: rgba(255, 255, 255, 0.85);
+  color: #111;
+  padding: 8px 16px;
+  border-radius: 12px;
+  font-size: 0.875rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  opacity: 0.85;
+  transition: all 0.3s ease;
+}
+
+.attribution:hover {
+  opacity: 1;
+  transform: translateY(-2px);
+}
+
+.attribution a {
+  all: unset;
+  color: #83a8df; 
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
