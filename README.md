@@ -3,7 +3,7 @@
 A simple and visually appealing **Color Palette Generator** built with **HTML, CSS, and JavaScript**.  
 It allows users to generate random color palettes and copy color codes to the clipboard with a single click.
 
-🌐 Live Demo: [View here](https://yoyoooz.github.io/quiz-game/)
+🌐 Live Demo: [View here]( https://yoyoooz.github.io/color-palette-generator/)
 
 ---
 
